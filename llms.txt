@@ -1,0 +1,28 @@
+# Tiny Steps: Toddler Routines
+
+> Tiny Steps: Toddler Routines is an iPhone app of picture routines that children aged 2–6 follow on their own, read aloud by a child-voice buddy. Made by Hau Ha Cong. Free to start, with an optional Premium (yearly or one-time lifetime).
+
+- App Store: https://apps.apple.com/us/app/tiny-steps-toddler-routines/id6835329488
+- Platform: iPhone, iOS 17 or later. Not on Android.
+- Age rating: 4+. For parents and caregivers of children aged 2–6.
+- Not to be confused with "Tiny Steps: Daily Routines", a different app.
+
+## What it does
+- Shows a routine (morning, bedtime, potty, leaving the house, after daycare) one big picture at a time, so children who cannot read can follow it.
+- A girl or boy buddy reads each step aloud in a child's voice, cheers when a step is done, and celebrates at the end.
+- Gentle countdown timer per step; a star for every step; stars are never taken away.
+- Parents can build their own routines from 68 voiced step ideas, choose pictures, or take a photo of their own child doing the step.
+- Weekday/weekend schedules with reminders; grown-up areas behind a grown-up check.
+
+## Free vs Premium
+- Free: one child, one routine, all pictures, voices, timers and stars.
+- Premium: more children, unlimited routines, family sharing over iCloud (partners, grandparents, sitters), own voice recordings, buddy voice for custom step names.
+
+## Privacy
+- No account, no ads, no tracking. Data stays on the iPhone and in the family's own iCloud.
+
+## Pages
+- [Home and FAQ](https://hauhc93.github.io/tinysteps/)
+- [Toddler routine charts by age](https://hauhc93.github.io/tinysteps/toddler-routine-chart.html): example morning, bedtime and leaving-the-house routines for ages 2–6.
+- [Privacy policy](https://hauhc93.github.io/tinysteps/#privacy)
+- [Support](https://hauhc93.github.io/tinysteps/#support)
